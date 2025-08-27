@@ -1,0 +1,3 @@
+Name:Ujjwala Katipamula
+Course name:BCA Data Science
+i learned how to upload,modify a text file and see the modifications through commits option.
